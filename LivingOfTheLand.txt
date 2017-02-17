@@ -1,11 +1,11 @@
-PowerShell
+##PowerShell
 That's the most obvious culprit. Just google it.
 Worth mentioning: PowerWare.
 
-WMI
+##WMI
 https://www.blackhat.com/docs/us-15/materials/us-15-Graeber-Abusing-Windows-Management-Instrumentation-WMI-To-Build-A-Persistent%20Asynchronous-And-Fileless-Backdoor-wp.pdf
 
-PSEXec
+##PSEXec
 https://blogs.technet.microsoft.com/mmpc/2016/03/17/no-mas-samas-whats-in-this-ransomwares-modus-operandi/
 https://nakedsecurity.sophos.com/2009/07/31/clomp-abusing-psexec/
 

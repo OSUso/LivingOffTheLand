@@ -1,4 +1,7 @@
-# LivingOfTheLand
+# Living Off The Land
+
+or Apps going rogue, Sleeper apps :) you get the point
+
 SecureWorks coined the term 'Living Off the Land'. 
 The term refers to threat actors "using credentials, systems, and tools they collect along the way instead of backdoors".
 

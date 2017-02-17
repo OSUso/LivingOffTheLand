@@ -1,0 +1,52 @@
+PowerShell
+That's the most obvious culprit. Just google it.
+Worth mentioning: PowerWare.
+
+WMI
+https://www.blackhat.com/docs/us-15/materials/us-15-Graeber-Abusing-Windows-Management-Instrumentation-WMI-To-Build-A-Persistent%20Asynchronous-And-Fileless-Backdoor-wp.pdf
+
+PSEXec
+https://blogs.technet.microsoft.com/mmpc/2016/03/17/no-mas-samas-whats-in-this-ransomwares-modus-operandi/
+https://nakedsecurity.sophos.com/2009/07/31/clomp-abusing-psexec/
+
+SDelete
+http://blog.trendmicro.com/trendlabs-security-intelligence/crypvault-new-crypto-ransomware-encrypts-and-quarantines-files/
+
+NetSh
+https://securelist.com/blog/research/77403/fileless-attacks-against-enterprise-networks/
+
+SC
+https://securelist.com/blog/research/77403/fileless-attacks-against-enterprise-networks/
+https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/worm_zlader.b
+
+IPConfig
+http://researchcenter.paloaltonetworks.com/2016/03/powersniff-malware-used-in-macro-based-attacks/
+http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/
+
+Systeminfo
+http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/
+
+Net
+Net Use
+https://www.secureworks.com/blog/living-off-the-land
+Net stop
+https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/worm_zlader.b
+
+InstallUtil
+http://subt0x10.blogspot.ae/2015/08/application-whitelisting-bypasses-101.html
+http://pastebin.com/xc9668u8
+
+AT (Native Windows Task Scheduler)
+https://attack.mitre.org/wiki/Technique/T1053
+
+CMD
+https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/worm_zlader.b
+
+Altiris Agent (Aclient.exe)
+https://www.secureworks.com/blog/living-off-the-land
+
+Nslookup (apparently used by a Red Team)
+https://twitter.com/JohnLaTwC/status/831963320915685377/photo/1 
+
+
+

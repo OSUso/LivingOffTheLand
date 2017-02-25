@@ -48,5 +48,8 @@ https://www.secureworks.com/blog/living-off-the-land
 Nslookup (apparently used by a Red Team)
 https://twitter.com/JohnLaTwC/status/831963320915685377/photo/1 
 
+CertUtil
+https://twitter.com/JohnLaTwC/status/835149808817991680
+
 
 

@@ -4,6 +4,8 @@ Worth mentioning: PowerWare.
 
 WMI
 https://www.blackhat.com/docs/us-15/materials/us-15-Graeber-Abusing-Windows-Management-Instrumentation-WMI-To-Build-A-Persistent%20Asynchronous-And-Fileless-Backdoor-wp.pdf
+wmic.exe
+https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
 
 PSEXec
 https://blogs.technet.microsoft.com/mmpc/2016/03/17/no-mas-samas-whats-in-this-ransomwares-modus-operandi/
@@ -11,6 +13,7 @@ https://nakedsecurity.sophos.com/2009/07/31/clomp-abusing-psexec/
 
 SDelete
 http://blog.trendmicro.com/trendlabs-security-intelligence/crypvault-new-crypto-ransomware-encrypts-and-quarantines-files/
+https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land   (Fritillary)
 
 NetSh
 https://securelist.com/blog/research/77403/fileless-attacks-against-enterprise-networks/
@@ -25,8 +28,10 @@ http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaig
 
 Systeminfo
 http://researchcenter.paloaltonetworks.com/2016/10/unit42-oilrig-malware-campaign-updates-toolset-and-expands-targets/
+https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
 
 Net
+https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land (Waterbug)
 Net Use
 https://www.secureworks.com/blog/living-off-the-land
 Net stop
@@ -38,6 +43,9 @@ http://pastebin.com/xc9668u8
 
 AT (Native Windows Task Scheduler)
 https://attack.mitre.org/wiki/Technique/T1053
+
+schtasks
+https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
 
 CMD
 https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/worm_zlader.b
@@ -60,4 +68,17 @@ https://ghostbin.com/paste/quoqp
 
 CVTRES.EXE
 https://twitter.com/JohnLaTwC/status/840939625770242048
+
+wevtutil 
+https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
+
+fsutil
+https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
+
+gpresult
+https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
+
+tasklist
+https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
+
 

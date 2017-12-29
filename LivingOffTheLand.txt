@@ -59,6 +59,7 @@ https://twitter.com/JohnLaTwC/status/831963320915685377/photo/1
 CertUtil
 https://twitter.com/JohnLaTwC/status/835149808817991680
 https://blog.malwarebytes.com/cybercrime/social-engineering-cybercrime/2017/03/new-targeted-attack-saudi-arabia-government/
+https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html
 
 Ping
 https://securelist.com/blog/incidents/34369/shamoon-the-wiper-in-details-40/

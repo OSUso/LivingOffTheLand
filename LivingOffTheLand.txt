@@ -71,7 +71,8 @@ CVTRES.EXE
 https://twitter.com/JohnLaTwC/status/840939625770242048
 
 wevtutil 
-https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
+https://www.crowdstrike.com/blog/petrwrap-ransomware-technical-analysis-triple-threat-file-encryption-mft-encryption-credential-theft/
+https://www.carbonblack.com/2017/06/27/protect-organization-petya-ransomware-carbon-black/
 
 fsutil
 https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
@@ -81,5 +82,4 @@ https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
 
 tasklist
 https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
-
 

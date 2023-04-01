@@ -83,3 +83,12 @@ https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
 tasklist
 https://www.symantec.com/connect/blogs/attackers-are-increasingly-living-land
 
+Net group /domain
+Net group "exchange services" /domain
+Net group "domain controllers" /domain
+Net group "exchange domain servers" /domain
+Net use \\IP
+Net user /domain
+Whoami.exe
+redg add HKLM\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest /v uselogonCredential /t REG_DWORD /d 1
+https://securityintelligence.com/posts/x-force-prevents-zero-day-from-going-anywhere/
